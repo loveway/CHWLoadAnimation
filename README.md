@@ -1,6 +1,6 @@
 # CHWLoadAnimation
 
-swift的一个加载的动画，联系一下swift，效果如下
+swift的一个加载的动画，练习一下swift，效果如下
 
  ![加载动画](https://github.com/Loveway/CHWLoadAnimation/blob/master/awiftAnimation.gif)
  
